@@ -1,4 +1,12 @@
 # Car-accidents-severity-prediction
- ## 2. *Cel*:
+## *GOAL*:
 
- Zbudowanie i optymalizacja modeli uczenia maszynowego zdolnych do przewidzenia stopnia powagi wypadku drogowego (zmienna objaśniana Severity) na podstawie czynników zewnętrznych, takich jak warunki atmosferyczne, czas zdarzenia oraz obecna na miejscu infrastruktura drogowa.
+Building and optimizing machine learning models capable of predicting the severity of a road accident (target variable Severity) based on external factors such as weather conditions, time of the event, and the road infrastructure present at the scene.
+
+## *Dataset Description*:
+
+The dataset originally contains nearly 8 million rows, each describing the severity, location, time, weather conditions and surroundings, and general context of a car accident. The data comes from 2016-2023 and was collected across all of North America (49 states) via various APIs pulling data from sources such as: cameras, road sensors, law enforcement agencies and other legal entities.
+
+Dataset link:
+
+https://www.kaggle.com/datasets/sobhanmoosavi/us-accidents/data
