@@ -9,4 +9,5 @@ The dataset originally contains nearly 8 million rows, each describing the sever
 
 [dataset link](https://www.kaggle.com/datasets/sobhanmoosavi/us-accidents/data)
 
+## *Where to look*
 Whole project walkthrough in Polish is in .ipynb file. Includes data exploration, data manipluation, using prediction and regression models and stating short conclusions.
