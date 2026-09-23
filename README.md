@@ -7,6 +7,6 @@ Building and optimizing machine learning models capable of predicting the severi
 
 The dataset originally contains nearly 8 million rows, each describing the severity, location, time, weather conditions and surroundings, and general context of a car accident. The data comes from 2016-2023 and was collected across all of North America (49 states) via various APIs pulling data from sources such as: cameras, road sensors, law enforcement agencies and other legal entities.
 
-Dataset link:
+[dataset link](https://www.kaggle.com/datasets/sobhanmoosavi/us-accidents/data)
 
-https://www.kaggle.com/datasets/sobhanmoosavi/us-accidents/data
+Whole project walkthrough in Polish is in .ipynb file. Includes data exploration, data manipluation, using prediction and regression models and stating short conclusions.
